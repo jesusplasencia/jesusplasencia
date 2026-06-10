@@ -11,7 +11,8 @@ I'm 24 years old, I feel happiness when doing software and turning ideas into re
 - 🧠 **Specialized in**: Backend APIs, event-driven systems, AWS Lambda architectures, and Infrastructure as Code.
 - 🛠️ **Skilled with**: FastAPI, Python, Java, Serverless Framework, DynamoDB, Docker, and CI/CD pipelines.
 - 🌎 **Looking for**: Remote or relocation-friendly roles in the US 🇺🇸 or Europe 🇪🇺 that value autonomy, quality, and innovation.
-- 📜 **Certifications**:  
+- 📜 **Certifications**:
+  - AWS Cloud Practitioner
   - AWS Certified Developer – Associate  
   - AWS Certified Solutions Architect – Associate
 
