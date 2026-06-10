@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm 23 years old, I feel happiness when doing software and turning ideas into resilient cloud systems. With 3+ years of experience and two AWS certifications, I build backend architectures that scale, last, and make an impact.
+I'm 24 years old, I feel happiness when doing software and turning ideas into resilient cloud systems. With 4+ years of experience and 3 AWS certifications, I build backend architectures that scale, last, and make an impact.
 
 - 🧠 **Specialized in**: Backend APIs, event-driven systems, AWS Lambda architectures, and Infrastructure as Code.
 - 🛠️ **Skilled with**: FastAPI, Python, Java, Serverless Framework, DynamoDB, Docker, and CI/CD pipelines.
@@ -29,7 +29,7 @@ I'm 23 years old, I feel happiness when doing software and turning ideas into re
 
 Here are a few projects that showcase what I build:
 
-- **Common Serverless Product (AWS)** – [Coming soon...]
+- [**dotfiles**](https://github.com/jesusplasencia/dotfiles.git)
 
 Want to collaborate or see more? Let’s connect.
 
